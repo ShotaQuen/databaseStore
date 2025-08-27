@@ -239,6 +239,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "247947888",
+      "nama": "konci",
+      "detail": [
+        {
+          "wa": "62882008713769",
+          "lid": "1756291032911",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
