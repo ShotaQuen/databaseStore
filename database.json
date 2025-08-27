@@ -63,6 +63,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "441341082",
+      "nama": "reno",
+      "detail": [
+        {
+          "wa": "628994121171",
+          "lid": "1756275072323",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
