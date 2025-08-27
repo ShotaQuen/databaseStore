@@ -207,6 +207,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "173875859",
+      "nama": "zams",
+      "detail": [
+        {
+          "wa": "6283139176029",
+          "lid": "1756287941410",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
