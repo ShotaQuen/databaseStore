@@ -111,6 +111,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "143057783",
+      "nama": "kurni",
+      "detail": [
+        {
+          "wa": "6281214345633",
+          "lid": "1756280445622",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
