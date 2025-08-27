@@ -223,6 +223,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "538525363",
+      "nama": "rapp",
+      "detail": [
+        {
+          "wa": "6287781472752",
+          "lid": "1756289315822",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
