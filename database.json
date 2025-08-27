@@ -1,1 +1,20 @@
-{}
+{
+  "users": [
+    {
+      "id": "867973828",
+      "nama": "anu",
+      "detail": [
+        {
+          "wa": "6285187440738",
+          "lid": "1756257185363",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
+    }
+  ]
+}
