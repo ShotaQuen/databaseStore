@@ -255,6 +255,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "868330016",
+      "nama": "farel",
+      "detail": [
+        {
+          "wa": "6281378030131",
+          "lid": "1756291490037",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
