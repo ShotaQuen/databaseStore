@@ -303,6 +303,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "824827107",
+      "nama": "yanto",
+      "detail": [
+        {
+          "wa": "6285692176307",
+          "lid": "1756297918666",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
