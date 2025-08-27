@@ -161,12 +161,28 @@
       ]
     },
     {
-      "id": "753437178",
+      "id": "161976779",
+      "nama": "banzzzzzzz",
+      "detail": [
+        {
+          "wa": "6281935510330",
+          "lid": "1756285528366",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
+    },
+    {
+      "id": "278663294",
       "nama": "jokowi",
       "detail": [
         {
           "wa": "6285788177182",
-          "lid": "1756285649786",
+          "lid": "1756285683502",
           "point": 0,
           "saldo": 0,
           "saldoKeluar": 0,
