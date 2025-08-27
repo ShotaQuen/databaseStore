@@ -31,6 +31,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "577827311",
+      "nama": "p_p",
+      "detail": [
+        {
+          "wa": "6282186846221",
+          "lid": "1756266624649",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
