@@ -319,6 +319,22 @@
           "riwayatpembelian": []
         }
       ]
+    },
+    {
+      "id": "708071538",
+      "nama": "isngantent",
+      "detail": [
+        {
+          "wa": "628988685425",
+          "lid": "1756650537593",
+          "point": 0,
+          "saldo": 0,
+          "saldoKeluar": 0,
+          "saldoMasuk": 0,
+          "riwayatdepo": [],
+          "riwayatpembelian": []
+        }
+      ]
     }
   ]
 }
